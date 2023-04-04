@@ -1,5 +1,5 @@
 var currentImgIndex=1;
-var imagemsrcArray=[
+var imagemsrcArray={
 
     'img/paimagem.jpg'
      'img/pa2imagem.jpg'
@@ -14,7 +14,7 @@ var imagemsrcArray=[
      'img/pa10imagem.jpg'
      
 
-];
+};
 
         function trocar(){
 
