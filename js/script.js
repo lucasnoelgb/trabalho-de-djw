@@ -1,16 +1,19 @@
 var currentImgIndex=1;
 var imagemsrcArray=[
 
-    'imagem/pa.jpg'
-    'imagem/pa2.jpg'
-    'imagem/pa3.jpg'
-    'imagem/pa4.jpg'
-    'imagem/pa5.jpg'
-    'imagem/pa6.jpg'
-    'imagem/pa7.jpg'
-    'imagem/pa8.jpg'
-    'imagem/pa9.jpg'
-    'imagem/pa10.jpg'
+    'img/paimagem.jpg'
+     'img/pa2imagem.jpg'
+     'img/pa2imagem.jpg'
+     'img/pa3imagem.jpg'
+     'img/pa4imagem.jpg'
+     'img/pa5imagem.jpg'
+     'img/pa6imagem.jpg'
+     'img/pa7imagem.jpg'
+     'img/pa8imagem.jpg'
+     'img/pa9imagem.jpg'
+     'img/pa10imagem.jpg'
+     
+
 ];
 
         function trocar(){
