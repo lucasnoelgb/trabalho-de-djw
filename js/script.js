@@ -1,27 +1,25 @@
 var currentImgIndex=1;
-var imagemsrcArray={
-
-    'img/paimagem.jpg'
-     'img/pa2imagem.jpg'
-     'img/pa2imagem.jpg'
-     'img/pa3imagem.jpg'
-     'img/pa4imagem.jpg'
-     'img/pa5imagem.jpg'
-     'img/pa6imagem.jpg'
-     'img/pa7imagem.jpg'
-     'img/pa8imagem.jpg'
-     'img/pa9imagem.jpg'
-     'img/pa10imagem.jpg'
+var imgsrcArray=[
+        "img/pa.jpg"
+        "img/pa2.jpg"
+        'img/pa3.jpg'
+        'img/pa4.jpg'
+        'img/pa5.jpg'
+        'img/pa6.jpg'
+        'img/pa7.jpg'
+        'img/pa8.jpg'
+        'img/pa9.jpg'
+        'img/pa10.jpg'
      
 
-};
+];
 
         function trocar(){
 
             if(correntimagemIndex=D;
     }        
           document.getElementById("agni").
-    src=imagemsrcArray[currentImgIndex];
+    src=imgsrcArray[currentImgIndex];
     
     currentImgIndex++;
 }
