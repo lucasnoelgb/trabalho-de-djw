@@ -12,7 +12,7 @@ var img10 = "pa10.jpg";
 
 
 function trocar() {
-    const imagem = document.getElementById("figuras");
+    const imagem = document.getElementById("figura");
     const trocar = Math.floor(Math.random() * 10) + 1;
     imagem.src = img/${trocar}.jpg;
     }
