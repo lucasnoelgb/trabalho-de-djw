@@ -1,11 +1,18 @@
+caixa{
+    margin:0px;
+    background-color: blue;
+    padding:0 25 px 30 px 2 px;
+    border:3px black;
+}
 *{
+
     background:gray;
         
     }	
 
 h2{
     color:white;
-    font-family:impact;
+
 }    
 div{
     display:block;
